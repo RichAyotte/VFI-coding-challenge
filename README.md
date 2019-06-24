@@ -32,7 +32,7 @@ Try to ship as few bugs as possible.
 
 Focus on a simple design interface. Functionality takes priority over design.
 
-###Task 1
+### Task 1
 Allow the user to supply a text blob of ~500 words.
 
 Be able to supply defaults for substrings.
@@ -41,15 +41,15 @@ Be able to view text blob and edit substrings.
 
 The text blob is persisted to server and displayed on the page when the page is reloaded, loaded in a different browser.
 
-###Task 2
+### Task 2
 All data is persisted on the server. When the user logs back in, they'll have the ability to view and edit the stored blobs of text.
 
-###Task 3
+### Task 3
 The user may wish to tag the blobs of text by category.
 
 This is open-ended task so feel free to design and implement it any way you see fit.
 
-###Done!
+### Done!
 
 TEXT_BLOB_EXAMPLE
 `Lorem ipsum dolor sit amet, ${FIRST_EDITABLE_FIELD} adipiscing elit. Aenean dictum elementum purus. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Suspendisse potenti. Ut porta venenatis velit, ac scelerisque nisi lobortis eu. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. In pellentesque elementum dolor vel aliquam. Integer maximus mattis nisi non efficitur. Nam elementum venenatis nibh sed feugiat. Aliquam a diam sed nulla lobortis sollicitudin ac vel lorem.
